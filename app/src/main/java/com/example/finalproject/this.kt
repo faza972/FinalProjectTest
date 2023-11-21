@@ -1,5 +1,5 @@
 package com.example.finalproject
 
-object this {
-    val am = sha
+object comp {
+    val am = "sha"
 }
