@@ -1,3 +1,3 @@
 package com.example.finalproject
 
-push lagi
+val push = "masuk pak eko"
